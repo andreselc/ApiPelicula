@@ -52,3 +52,4 @@ update-database
 
 4. Se ejecuta la API para probar los endpoints desde el Swagger.
 
+![Endpoints en Swagger](ApiPelicula/../images/endpointsSwagger.png)
